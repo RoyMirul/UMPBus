@@ -22,8 +22,8 @@ if ($stmt->rowCount() > 0) {
 		else
 
 		{
-
-		header("Location: login.php?error=1");
+			echo '<script>alert("Username and Password invalid ")</script>';
+			 echo("<script>window.location = 'login.php';</script>");
 
 		}
 
