@@ -5,7 +5,7 @@
 
     
 
-    <title>UMP CAR RENTAL RESERVATION</title>
+    <title>UMP BUS RESERVATION SYSTEM</title>
 	<!-- start: CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/bootstrap.min1.css" rel="stylesheet">
