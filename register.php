@@ -116,8 +116,7 @@
                         <strong>Member Registration</strong>
                     </h2>
                     <hr>
-					
-					
+							
 					
                 </div>
                 <div class="inner cover" style="height:400px; overflow-y: scroll;">
