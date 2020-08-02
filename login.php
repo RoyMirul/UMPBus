@@ -87,7 +87,7 @@ div.row1 {
                         <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="choose.php">Bookings</a>
+                        <a href="choose.php">Booking</a>
                     </li>
                     <li>
                         <a href="contact.php">Contact Us</a>
